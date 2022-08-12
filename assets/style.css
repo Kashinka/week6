@@ -9,6 +9,7 @@
 }
 
 .section {
+    display: grid;
     border: 1px solid red;
 }
 
