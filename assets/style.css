@@ -16,6 +16,9 @@
 }
 
 .aside {
+    display: grid;
+    grid-template-rows: 1fr;
+    width: 50%;
     border: 1px solid red;
 }
 
