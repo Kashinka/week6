@@ -80,6 +80,7 @@
 
 .section1, .section2, .section3, .section4 {
     display: grid;
+    align-content: center;
     background-color: #fafafa;
 }
 
