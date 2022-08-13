@@ -13,6 +13,7 @@
 .main {
     display: grid;
     grid-template-columns: 1fr 30%;
+    grid-template-rows: 1fr;
     height: 50vh;
     /* border: 1px solid red;*/
 }
@@ -20,6 +21,7 @@
 .section {
     display: grid;
     gap: 15px;
+    height: 95%;
     background-color: #fff8e3;
     /* border: 1px solid red;*/
 }
