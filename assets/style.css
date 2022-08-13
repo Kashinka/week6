@@ -20,6 +20,7 @@
 .section {
     display: grid;
     gap: 15px;
+    background-color: #fff8e3;
     border: 1px solid red;
 }
 
