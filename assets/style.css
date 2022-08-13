@@ -21,11 +21,16 @@
 
 .section {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(1000px, 200px));
+    /* grid-template-columns: repeat(auto-fit, minmax(1000px, 200px)); */
     gap: 15px;
     height: 95%;
     background-color: #fff8e3;
     /* border: 1px solid red;*/
+}
+
+.grid2 {
+    display: grid;
+    width: 90%;
 }
 
 /*
