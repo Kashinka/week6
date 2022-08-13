@@ -57,7 +57,7 @@
 .article3 {
     display: grid;
     grid-template-columns: 1fr;
-    
+    width: 95%;
     align-content: center;
     border: 1px solid red;
 }
