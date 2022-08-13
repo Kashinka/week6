@@ -40,6 +40,10 @@
     border: 1px solid red;
 }
 
+.article {
+    
+}
+
 .article12 {
     display: grid;
     grid-template-columns: 1fr 1fr;
