@@ -18,7 +18,6 @@
 
 .section {
     display: grid;
-    grid-template: 50% / 50%;
     border: 1px solid red;
 }
 
