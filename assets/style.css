@@ -2,26 +2,26 @@
     display: grid;
     width: 100vw;
     text-align: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .header {
     background-color: #e0e0e0;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .main {
     display: grid;
     grid-template-columns: 1fr 30%;
     height: 50vh;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .section {
     display: grid;
     gap: 15px;
     background-color: #fff8e3;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 /*
@@ -40,7 +40,7 @@
     align-content: center;
     height: 15vh;
     background-color: #e0e0e0;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .article {
@@ -57,25 +57,25 @@
     grid-template-rows: 100%;
     gap: 15px;
     text-align: center;
-    border: 1px solid green;
+    /* border: 1px solid green;*/
 }
 
 .article1 {
     display: grid;
     align-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .article2 {
     display: grid;
     align-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .article3 {
     display: grid;
     align-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .section1, .section2, .section3, .section4 {
@@ -85,17 +85,17 @@
 }
 
 .section1 {
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .section2 {
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .section3 {
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
 
 .section4 {
-    border: 1px solid red;
+    /* border: 1px solid red;*/
 }
