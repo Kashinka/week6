@@ -12,6 +12,7 @@
 .main {
     display: grid;
     grid-template-columns: 1fr 30%;
+    height: 50vh;
     border: 1px solid red;
 }
 
