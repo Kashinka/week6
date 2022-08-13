@@ -45,6 +45,10 @@
     background-color: #ddeccb;
 }
 
+.article1, .article2, .article3 {
+    background-color: #feeab9;
+}
+
 .article12 {
     display: grid;
     grid-template-columns: 1fr 1fr;
