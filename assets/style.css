@@ -6,6 +6,7 @@
 }
 
 .header {
+    background-color: #e0e0e0;
     border: 1px solid red;
 }
 
@@ -56,6 +57,7 @@
 
 .article2 {
     display: grid;
+    align-content: center;
     border: 1px solid red;
 }
 
