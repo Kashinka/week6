@@ -50,6 +50,7 @@
 
 .article1 {
     display: grid;
+    align-content: center;
     border: 1px solid red;
 }
 
