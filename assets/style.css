@@ -11,6 +11,8 @@
 
 .main {
     display: grid;
+    grid-template-columns: 1fr 30%;
+    border: 1px solid red;
 }
 
 .section {
