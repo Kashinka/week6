@@ -18,6 +18,7 @@
 
 .section {
     display: grid;
+    gap: 15px;
     border: 1px solid red;
 }
 
