@@ -24,6 +24,7 @@
     /* grid-template-columns: repeat(auto-fit, minmax(1000px, 200px)); */
     gap: 15px;
     height: 95%;
+    justify-items: center;
     background-color: #fff8e3;
     /* border: 1px solid red;*/
 }
