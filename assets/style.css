@@ -55,6 +55,7 @@
 }
 
 .article3 {
+    display: grid;
     border: 1px solid red;
 }
 
